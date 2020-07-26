@@ -40,22 +40,20 @@ header{
   display:flex;
 }
 .top-columns li{
-  width:25%;
+  color:white;
 }
 
 .board{
   background-color:#87CEFA;
-  color:white;
+
 }
 
 .members{
   background-color:#66CDAA; 
-  color:white;
 }
 
 .inquiry{
   background-color:#FFB6C1;
-  color:white;
 }
 
 @media all and (max-width: 1000px) {
