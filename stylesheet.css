@@ -44,15 +44,15 @@ header{
 }
 
 .board{
-  background-color:;
+  background-color:#87CEFA;
 }
 
 .members{
-  background-color:;  
+  background-color:#66CDAA;  
 }
 
 .inquiry{
-  background-color:;
+  background-color:#FFB6C1;
 }
 
 @media all and (max-width: 1000px) {
