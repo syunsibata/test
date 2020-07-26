@@ -37,6 +37,7 @@ header{
 
 .top-columns ul{
   display:flex;
+  width:25%;
 }
 @media all and (max-width: 1000px) {
 
