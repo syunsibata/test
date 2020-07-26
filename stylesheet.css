@@ -14,13 +14,11 @@ a {
 header{
   background-color:#FF8C00;
   width:100%;
-  height:30px;
 }
 
 .header-content{
   margin:auto;
   text-align:center;
-  vertical-align:center;
 }
 
 .header-content h1{
