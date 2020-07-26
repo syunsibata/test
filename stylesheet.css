@@ -18,12 +18,12 @@ ul {
 header{
   background-color:#FF8C00;
   width:100%;
+  boder-bottom:solid 1px #FFFFFF;
 }
 
 .header-content{
   margin:0 auto;
   text-align:center;
-  boder-bottom:solid 1px #FFFFFF;
 }
 
 .header-content h1{
