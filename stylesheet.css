@@ -59,6 +59,10 @@ header{
   color:white;
 }
 
+.main-area{
+  background-color:#F4A460;
+}
+
 @media all and (max-width: 1000px) {
 
 
