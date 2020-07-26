@@ -11,19 +11,33 @@ a {
   text-decoration: none;
 }
 
+ul {
+  list-style: none;
+}
+
 header{
   background-color:#FF8C00;
   width:100%;
 }
 
 .header-content{
-  margin:auto;
+  margin:0 auto;
   text-align:center;
 }
 
 .header-content h1{
   color:white;
   font-weight:normal;
+}
+
+.top-content{
+  width:content;
+  margin:0 auto;
+}
+
+.top-columns{
+  display:flex;
+  flex-wrap:wrap;
 }
 
 @media all and (max-width: 1000px) {
