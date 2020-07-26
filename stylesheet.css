@@ -36,6 +36,7 @@ header{
 }
 
 .top-columns ul{
+  text-align:center;
   display:flex;
 }
 .top-columns li{
