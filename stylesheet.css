@@ -18,8 +18,9 @@ header{
 }
 
 .header-content{
-  margin:0 auto;
+  margin:auto;
   text-align:center;
+  vertical-align:center;
 }
 
 .header-content h1{
