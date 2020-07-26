@@ -35,11 +35,6 @@ header{
   margin:0 auto;
 }
 
-.top-columns{
-  
-  flex-wrap:wrap;
-}
-
 .top-columns ul{
   display:flex;
 }
