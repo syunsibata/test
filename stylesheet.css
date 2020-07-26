@@ -23,7 +23,7 @@ header{
 .header-content{
   margin:0 auto;
   text-align:center;
-  boder-bottom:solid 1px white;
+  boder-bottom:solid 1px #FFFFFF;
 }
 
 .header-content h1{
